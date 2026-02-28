@@ -16,7 +16,7 @@ I sit at the intersection of technology and business — building strategic part
 ## About Me
 
 - Started my career as a **Java Developer**, which gave me a deep appreciation for building software from the ground up
-- Spent time at **JP Morgan** in finance before pivoting to tech and partnerships
+- Spent time at **JP Morgan** in Product Mangement before pivoting to tech and partnerships
 - Founded a startup and learned the hard way what it takes to build from zero to one
 - Earned my **MBA from INSEAD** and hold a **CFA charter**
 - Currently based in **San Francisco**, working at the forefront of AI partnerships at Google
