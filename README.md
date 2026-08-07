@@ -1,6 +1,6 @@
 # Hey, I'm Abhi Das
 
-**AI & DevTools Partnerships at Google | Ex-Founder | Ex-JPM | INSEAD MBA | CFA**
+**AI & DevTools Partnerships at Google | Ex-Founder | Ex-Cloudflare | INSEAD MBA | CFA**
 
 I sit at the intersection of technology and business — building strategic partnerships in AI and developer tools at Google, while staying hands-on with code and shipping side projects on weekends.
 
